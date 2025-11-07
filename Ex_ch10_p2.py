@@ -9,3 +9,4 @@ df = pd.DataFrame(data)
 
 st.write("### 나의 시간표")
 st.write(df)
+
